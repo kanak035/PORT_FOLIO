@@ -2,11 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/studentmarketplace.jpeg";
 import chatify from "../../Assets/Projects/chatapp.jpeg";
-import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/mess-management.png";
 
 function Projects() {

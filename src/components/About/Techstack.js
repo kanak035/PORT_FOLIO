@@ -4,7 +4,6 @@ import { CgCPlusPlus } from "react-icons/cg";
 import { DiJavascript1, DiReact, DiNodejs, DiMongodb, DiCss3, DiHtml5 } from "react-icons/di";
 import { FaBootstrap, FaDocker } from "react-icons/fa";
 import { SiExpress, SiTypescript, SiTailwindcss } from "react-icons/si";
-import { TbBrandCpp } from "react-icons/tb"; // Optional C icon (not exact, used placeholder)
 
 function Techstack() {
   return (
