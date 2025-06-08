@@ -27,8 +27,7 @@ function Projects() {
               isBlog={false}
               title="Chat-App"
               description="MERN Chat App is a real-time messaging application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It integrates Socket.IO to enable seamless and instant two-way communication between users. The app supports real-time conversations, making it efficient for both personal and group chats. This project showcases my ability to build full-stack applications with real-time capabilities and dynamic user interactions."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/kanak035/Mern-Chat-App"
             />
           </Col>
 
@@ -38,8 +37,7 @@ function Projects() {
               isBlog={false}
               title="Mess-Management"
               description="Mess Management System is a web application I developed to streamline and improve the student experience with college mess facilities. The platform allows students to register complaints, provide reviews, and rate the mess services. Its goal is to ensure transparency and create a feedback loop between students and mess administration, so that issues can be addressed quickly and service quality can be consistently improved. The system aims to eliminate communication gaps and make mess management more efficient and student-friendly."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/kanak035/Messo"
             />
           </Col>
 
@@ -49,8 +47,7 @@ function Projects() {
               isBlog={false}
               title="Student-Marketplace"
               description="Student Marketplace is a campus-focused platform where students can buy and sell items like books or gadgets. Access is restricted to those with a college email login, ensuring a trusted and student-only environment."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://github.com/kanak035/student_marketplace"
             />
           </Col>
 {/* 
